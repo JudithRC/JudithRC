@@ -3,8 +3,7 @@
 - 🌱 Actualmente estoy ampliando mi conocimiento con Flutter, usando Dart, y descubriendo cosas nuevas cada día con Python.
 - 🖥️ Ya he desarrollado algunos proyectos utilizando JavaScript y SQLite, usando frameworks como Quasar incluso!
 
-
-[![Destacado: rep-zone](https://img.shields.io/badge/Repositorio%20destacado-rep--zone-blue?style=for-the-badge)](https://github.com/JudithRC/rep-zone)
+[![Accede a mi DevNet](https://img.shields.io/badge/Visita%20mi%20web%20rep--zone-00bfff?style=for-the-badge&logo=githubpages&logoColor=white)](https://judithrc.github.io/rep-zone/)
 
 <!---
 JudithRC/JudithRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
