@@ -1,5 +1,5 @@
 # Hola, soy @JudithRC! 👋
-- Estoy interesada en crear mis propios proyectos de software, donde desarrollo aplicaciones que me resultan en interesantes retos que me ayuden a desenvolver mejor mis habilidades. 
+- Estoy interesada en crear mis propios proyectos de software, donde desarrollo aplicaciones que me resultan en interesantes retos que me ayuden a profundizar en mis habilidades. 
 - 🌱 Actualmente estoy ampliando mi conocimiento con Flutter, usando Dart, y descubriendo cosas nuevas cada día con Python, JavaScript, C++ y otros lenguajes.
 - 🤖 Por otro lado exploro el potencial de las herramientas proporcionadas por AWS, por ejemplo [Amazon Bedrock](https://aws.amazon.com/es/bedrock/) entre otras. ¿Has probado ya [PartyRock](https://partyrock.aws)?
 
